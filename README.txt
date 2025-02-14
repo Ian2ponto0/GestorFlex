@@ -1,4 +1,4 @@
-/-------------/-------------/-------------/-------------/-------------/ Seja Bem Vindo!!! \-------------\-------------\-------------\-------------\-------------\
+						Seja Bem vindo ao nosso projeto!!!
 
 #Grupo: Ian Olveira de Almeida, Kauê Dos Santos Muniz, Sophia Souza Xavier, Gustavo Pereira de Almeida , Luiz Gustavo Marchetti, João Victor Carato.  
 
@@ -11,11 +11,10 @@
 # Principais Funcionalidades:
 
 - O sistema conta com duas interfaces distintas para consumidores e administradores, priorizando a segurança e melhorando a experiência do usuário.
-{
+
     Interface de Funcionários: Disponibilizada pela empresa, permite que funcionários selecionem seu cargo ao entrar no sistema.
 
     Interface de Usuários: Não requer escolha de cargo, proporcionando uma experiência simplificada para os consumidores.
-}
 
 - Automação de Processos Financeiros: Inclui cálculos de lucro, impostos e recomposição de estoque, permitindo a modelagem dos dados conforme a necessidade do administrador.
 
